@@ -1,6 +1,2 @@
 # New-Project-
-Business Introduction
-
-Hanoi is a very lovely city that I used to live and I want to use FOURSQURE APIs and FOODY APIs to explore the venues in Hanoi, Vietnam to answer to a number of questions that I want to find out: If I want to open a restaurant in Hanoi, where should I open it and for what kind of customers and which cuisine should I focus on?
-Foody.vn is one of the biggest websites/apps in Vietnam where the customer or bloggers can rate the restaurants/cafes and order foods online. I am very confident that the data that I get will give me a lot of ideas and interesting discoveries. 
-
+WE all know that automobile accidents cause a large number of fatalities in the World. in this project, we want to focus on Seattle. The data that I use in this project are colelcted from Seattle Police Department and Accident Traffic Records Department from 2004 to present. my goal is to predict the severity of the accident according to the weather conditions as well as road and light conditions. This study is very interesting and important for the target audience in order to make the right decisions to reduce the number of accidents. I also believe that this prediction will help the insurance company and police department to have more actions and prevention in order to control the number of accidents. 
